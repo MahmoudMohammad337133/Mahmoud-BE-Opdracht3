@@ -10,6 +10,7 @@ table {
 }
 
 th, td {
-    border: 2px solid rgb(255, 0, 0);
+    border: 10px solid rgb(129, 129, 129);
     padding:.6em;
+    
 }
